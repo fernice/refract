@@ -38,9 +38,9 @@
     </licenses>
 
     <scm>
-        <connection>scm:git:ssh://git@github.com:fernice/maven.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com:fernice/maven.git</developerConnection>
-        <url>https://github.com/fernice/maven</url>
+        <connection>scm:git:ssh://git@github.com:fernice/refract.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:fernice/refract.git</developerConnection>
+        <url>https://github.com/fernice/refract</url>
         <tag>HEAD</tag>
     </scm>
 
