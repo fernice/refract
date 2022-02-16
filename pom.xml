@@ -4,7 +4,7 @@
 
     <groupId>org.fernice</groupId>
     <artifactId>refract</artifactId>
-    <version>17.0.0</version>
+    <version>17.0.1-SNAPSHOT</version>
 
     <name>fernice-refract</name>
     <description>
