@@ -95,12 +95,6 @@
 
     <dependencies>
         <dependency>
-            <groupId>io.github.toolfactory</groupId>
-            <artifactId>narcissus</artifactId>
-            <version>1.0.7</version>
-        </dependency>
-
-        <dependency>
             <groupId>org.jetbrains</groupId>
             <artifactId>annotations</artifactId>
             <version>${jetbrains-annotations.version}</version>

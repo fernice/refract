@@ -1,6 +1,6 @@
 module org.fernice.refract {
-    requires io.github.toolfactory.narcissus;
     requires org.jetbrains.annotations;
+    requires jdk.unsupported;
 
     exports org.fernice.refract;
 }
