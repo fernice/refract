@@ -4,7 +4,7 @@
 
     <groupId>org.fernice</groupId>
     <artifactId>refract</artifactId>
-    <version>17.0.0</version>
+    <version>17.0.1</version>
 
     <name>fernice-refract</name>
     <description>
@@ -94,12 +94,6 @@
     </repositories>
 
     <dependencies>
-        <dependency>
-            <groupId>io.github.toolfactory</groupId>
-            <artifactId>narcissus</artifactId>
-            <version>1.0.7</version>
-        </dependency>
-
         <dependency>
             <groupId>org.jetbrains</groupId>
             <artifactId>annotations</artifactId>
