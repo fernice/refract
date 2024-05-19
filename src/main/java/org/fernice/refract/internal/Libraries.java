@@ -56,6 +56,9 @@ public class Libraries {
             } else {
                 return "x86";
             }
+        } else if (architecture.contains("i386") || architecture.contains("i486")
+                || architecture.contains("i586") || architecture.contains("i686")) {
+            return "x86";
         } else if (architecture.contains("aarch64")) {
             return "arm_64";
         } else if (architecture.contains("arm")) {

@@ -1,4 +1,4 @@
-#import <jni.h>
+#include <jni.h>
 #include <stdbool.h>
 
 bool thrown(JNIEnv* env) {
